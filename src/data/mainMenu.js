@@ -1,18 +1,18 @@
 export default [
   {
     href: '#',
-    text: 'home'
+    text: 'Home'
   },
   {
     href: '#',
-    text: 'prodotti'
+    text: 'Prodotti'
   },
   {
     href: '#',
-    text: 'chi siamo'
+    text: 'Chi siamo'
   },
   {
     href: '#',
-    text: 'contatti'
+    text: 'Contatti'
   }
 ]
